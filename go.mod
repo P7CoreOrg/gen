@@ -3,6 +3,7 @@ module github.com/smallnest/gen
 go 1.12
 
 require (
+	github.com/P7CoreOrg/schema v0.0.0-20191031143951-fd50541f7a92
 	github.com/denisenkom/go-mssqldb v0.0.0-20190412130859-3b1d194e553a
 	github.com/droundy/goopt v0.0.0-20170604162106-0b8effe182da
 	github.com/erikstmartin/go-testdb v0.0.0-20160219214506-8d10e4a1bae5 // indirect

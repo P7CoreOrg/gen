@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/jimsmart/schema"
+	"github.com/P7CoreOrg/schema"
 )
 
 type ModelInfo struct {

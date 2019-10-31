@@ -11,9 +11,9 @@ import (
 	"strings"
 	"text/template"
 
+	"github.com/P7CoreOrg/schema"
 	_ "github.com/denisenkom/go-mssqldb"
 	"github.com/droundy/goopt"
-	"github.com/jimsmart/schema"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 	"github.com/jinzhu/inflection"
 	_ "github.com/lib/pq"
